@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ophillia Nkuna!
 
-🌍 **Based in:** Johannesburg, Bramfontein  
+🌍 **Based in:** Johannesburg, Soweto  
 👩‍💻 **Current Role:** AI Intern at CapaCiTi (focusing on AI for women)
 
 ---
@@ -14,11 +14,13 @@ Currently, I'm working on projects like generative AI with no code, automation w
 
 ## 🛠️ Technical Skills & Tools
 
-- **make.com** (my favorite project platform!)
+- Python 
+-  make.com 
 - Microsoft Power Agent
 - Tally Form
 - Dialogflow
 - Voiceflow
+  
 
 ---
 
